@@ -1,0 +1,14 @@
+/* components/itemgood/w-itemgood.wxss */
+.good{
+  width: 96%;
+  margin: 0 auto;
+}
+.img{
+  width: 100%;
+  border-radius: 5px;
+}
+.des{
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}

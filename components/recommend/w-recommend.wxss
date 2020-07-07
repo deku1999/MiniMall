@@ -1,0 +1,17 @@
+/* components/recommend/w-recommend.wxss */
+.img{
+  width: 140rpx;
+  height: 140rpx;
+  margin-bottom: 4px;
+}
+.outest{
+  display: flex;
+  text-align: center;
+  color: #222;
+  font-size: 14px;
+  padding: 10px 0;
+  border-bottom: 8px solid #eee;
+}
+.out{
+  flex: 1;
+}

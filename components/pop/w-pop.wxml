@@ -1,0 +1,2 @@
+<!--components/pop/w-pop.wxml-->
+<image src="/assets/img/recommend_bg.jpg" mode="widthFix" class="img"></image>

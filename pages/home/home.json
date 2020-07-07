@@ -1,0 +1,11 @@
+{
+  "usingComponents": {
+    "w-swiper" : "/components/swiper/w-swiper",
+    "w-recommend": "/components/recommend/w-recommend",
+    "week-pop" : "/components/pop/w-pop",
+    "w-tabcontrol" : "/components/tab-control/w-tabcontrol",
+    "w-goods" : "/components/itemgoods/w-goods",
+    "w-backtop" : "/components/backtop/w-backtop"
+  },
+  "navigationBarTitleText": "蘑菇街"
+}

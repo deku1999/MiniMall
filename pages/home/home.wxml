@@ -1,0 +1,9 @@
+<!--pages/home/home.wxml-->
+<scroll-view scroll-y class="scroll" >
+<w-swiper banner="{{bannerList}}"></w-swiper>
+<w-recommend recom="{{recommend}}"></w-recommend>
+<week-pop></week-pop>
+<w-tabcontrol list="{{['流行','新款','精选']}}" bind:itemclick="itemClick"></w-tabcontrol>
+<w-goods goods="{{goodsList[currentType].list}}"></w-goods>
+</scroll-view>
+<w-backtop wx:if="{{isShow}}"></w-backtop>

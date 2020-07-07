@@ -1,0 +1,5 @@
+<!--components/itemgood/w-itemgood.wxml-->
+<view class="good">
+<image src="{{good.show.img}}" mode="widthFix" class="img"></image>
+<view class="des">{{good.title}}</view>
+</view>

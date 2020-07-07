@@ -1,0 +1,4 @@
+/* components/pop/w-pop.wxss */
+.img{
+  width: 100%;
+}
